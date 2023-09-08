@@ -76,6 +76,15 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 
 ## Configuración en la BIOS
 
+
+| Configuración en la BIOS |
+| :--- | :--- |  :--- |
+| SVM Mode | Enabled  | Generalmente se encuentra en Advanced>CPU Configuration|
+| **[SSDT-CPUR](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-CPUR.aml)** | Corrección para CPU con placas base B550 y A520, `usar solo si tienes B550 o A520`.|
+
+
+
+
 |      Configuración en la BIOS                                                                                                                                       |
 | :--- | :--- | :--- |
 |  SVM Mode                                                |    Enabled          |   Generalmente se encuentra en Advanced>CPU Configuration                          |
