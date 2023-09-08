@@ -76,8 +76,6 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 
 ## Configuración en la BIOS
 
-| Configuración en la BIOS |
-
 |      Configuración en la BIOS                                                                                                                                       |
 |----------------------------------------------------------|---------------------|------------------------------------------------------------------------------------|
 |  SVM Mode                                                |    Enabled          |   Generalmente se encuentra en Advanced>CPU Configuration                          |
