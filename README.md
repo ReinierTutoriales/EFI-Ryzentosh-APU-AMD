@@ -77,7 +77,7 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 ## Configuración en la BIOS
 
 |      Configuración en la BIOS                                                                                                                                       |
-|----------------------------------------------------------|---------------------|------------------------------------------------------------------------------------|
+| :--- | :--- | :--- |
 |  SVM Mode                                                |    Enabled          |   Generalmente se encuentra en Advanced>CPU Configuration                          |
 |   Above 4G Decoding                                      |     Auto/Disabled   |Generalmente se encuentra en Advanced>PCI Configuration                             |
 |   Resizable BAR/Acceso inteligente a la memoria (C.A.M)  |    Disabled         | Generalmente se encuentra en Advanced>PCI Configuration                            |
