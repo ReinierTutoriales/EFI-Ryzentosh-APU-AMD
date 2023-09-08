@@ -75,10 +75,11 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 ## UEFI
 
 ## Configuración en la BIOS
-| Core Count  Hexadecimal |
+
+| Configuración en la BIOS |
 |------------|-------------|
-|  SVM Mode              |    Enabled   |   Generalmente se encuentra en Advanced>CPU Configuration     |
-|   Above 4G Decoding   |     Auto/Disabled    |Generalmente se encuentra en Advanced>PCI Configuration   |
+|  SVM Mode              |    Enabled   |   Generalmente se encuentra en Advanced>CPU Configuration                                  |
+|   Above 4G Decoding      |     Auto/Disabled    |Generalmente se encuentra en Advanced>PCI Configuration                              |
 |   Resizable BAR/Acceso inteligente a la memoria (C.A.M)  |    Disabled   | Generalmente se encuentra en Advanced>PCI Configuration |
 |   UMA Frame buffer Size  |    Auto    |  Generalmente se encuentra en Advanced>Onboard Devices Configuration |
 |  Integrated Graphics Controller  |     Auto    | Generalmente se encuentra en Advanced>AMD CBS>NBIO Common Options>GFX Configuration |
