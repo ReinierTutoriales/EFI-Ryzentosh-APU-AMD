@@ -77,23 +77,16 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 ## Configuración en la BIOS
 
 
-| Configuración en la BIOS |
-| :--- | :--- |  :--- |
-| SVM Mode | Enabled  | Generalmente se encuentra en Advanced>CPU Configuration|
-| **[SSDT-CPUR](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-CPUR.aml)** | Corrección para CPU con placas base B550 y A520, `usar solo si tienes B550 o A520`.|
 
-
-
-
-|      Configuración en la BIOS                                                                                                                                       |
-| :--- | :--- | :--- |
+| Configuración en la BIOS                                                                                                                                            |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  SVM Mode                                                |    Enabled          |   Generalmente se encuentra en Advanced>CPU Configuration                          |
 |   Above 4G Decoding                                      |     Auto/Disabled   |Generalmente se encuentra en Advanced>PCI Configuration                             |
 |   Resizable BAR/Acceso inteligente a la memoria (C.A.M)  |    Disabled         | Generalmente se encuentra en Advanced>PCI Configuration                            |
 |   UMA Frame buffer Size                                  |    Auto             |  Generalmente se encuentra en Advanced>Onboard Devices Configuration               |
 |  Integrated Graphics Controller                          |     Auto            | Generalmente se encuentra en Advanced>AMD CBS>NBIO Common Options>GFX Configuration|
-|   UMA Above 4G                                           |   Auto              | Generalmente se encuentra en Advanced>AMD CBS>NBIO Common Options>GFX Configuration| 
-|  IOMMU                                                   |    Enabled          |  Generalmente se encuentra en Advanced>AMD CBS>NBIO Common Options                 | 
+|   UMA Above 4G                                           |   Auto              | Generalmente se encuentra en Advanced>AMD CBS>NBIO Common Options>GFX Configuration|
+|  IOMMU                                                   |    Enabled          |  Generalmente se encuentra en Advanced>AMD CBS>NBIO Common Options                 |
 | Primary Video Adaptor (IGD)                              |  Int Graphics (IGD) | Generalmente se encuentra en Advanced>AMD PBS                                      |
 | CSM (Compatibility Support Module)                       |   Disabled          | Generalmente se encuentra en Boot                                                  |
 
