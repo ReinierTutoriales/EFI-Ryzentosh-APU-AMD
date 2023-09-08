@@ -78,7 +78,7 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 
 
 
-| Configuración en la BIOS                                 |         Estado      |     Donde se encuentra                                                             |
+| Apartado en la BIOS                                      |         Estado      |     Donde se encuentra                                                             |
 |----------------------------------------------------------|---------------------|------------------------------------------------------------------------------------|
 |  SVM Mode                                                |    Enabled          |   Generalmente se encuentra en Advanced>CPU Configuration                          |
 |   Above 4G Decoding                                      |     Auto/Disabled   |Generalmente se encuentra en Advanced>PCI Configuration                             |
@@ -88,7 +88,7 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 |   UMA Above 4G                                           |   Auto              | Generalmente se encuentra en Advanced>AMD CBS>NBIO Common Options>GFX Configuration|
 |  IOMMU                                                   |    Enabled          |  Generalmente se encuentra en Advanced>AMD CBS>NBIO Common Options                 |
 | Primary Video Adaptor (IGD)                              |  Int Graphics (IGD) | Generalmente se encuentra en Advanced>AMD PBS                                      |
-| CSM (Compatibility Support Module)                       |   Disabled          | Generalmente se encuentra en Boot                                                  |
+| CSM (Compatibility Support Module)                       |   Disabled          | Generalmente se encuentra en Boot                                                  | 
 
 
 
