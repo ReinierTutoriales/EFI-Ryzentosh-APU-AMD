@@ -89,19 +89,3 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 |  IOMMU                                                   |    Enabled          |  Generalmente se encuentra en Advanced>AMD CBS>NBIO Common Options                 |
 | Primary Video Adaptor (IGD)                              |  Int Graphics (IGD) | Generalmente se encuentra en Advanced>AMD PBS                                      |
 | CSM (Compatibility Support Module)                       |   Disabled          | Generalmente se encuentra en Boot                                                  | 
-
-
-
-- [x] Deshabilitar en la BIOS.
-     - Fast Boot
-     - Secure Boot
-     - Serial/COM Port
-     - Parallel Port
-     - Compatibility Support Module CSM debe estar desactivado en la mayoría de los casos, los errores de GPU gIO son comunes cuando esta opción está habilitada.
-     - IOMMU
- 
- - [x] Habilitar en la BIOS.
-      - Above 4G Decoding
-      - EHCI/XHCI Hand-off
-      - OS type: Windows 8.1/10 UEFI Mode
-      - SATA Mode: AHCI
