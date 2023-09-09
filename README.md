@@ -42,11 +42,13 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 - AppleMCEReporterDisabler.kext
 - IntelMausi.kext
 - Lilu.kext
+- NootedRed.kext
 - NVMeFix.kext
+- RadeonSensor.kext
 - RealtekRTL8111.kext
 - RestrictEvents.kext
+- SMCRadeonGPU.kext
 - VirtualSMC.kext
-- WhateverGreen.kext
 ## Tools
 - OpenShell.efi
 - ResetSystem.efi
