@@ -25,7 +25,7 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 
 # Consideraciones a tener en cuenta.
 - [x] Esta EFI tiene SSDT genéricos de Dortania para mejorar la compatibilidad con el máximo de equipos.
-- [x] Si vas a instalar para gráficos integrados AMD  en APU tienes que remover [WhateverGreen.kext](https://dortania.github.io/builds/?product=WhateverGreen&viewall=true) y incorporar [NootedRed.kext](https://github.com/NootInc/NootedRed).
+- [x] Si vas a instalar para gráficos integrados AMD  en APU tienes que remover [WhateverGreen.kext](https://dortania.github.io/builds/?product=WhateverGreen&viewall=true) y incorporar [NootedRed.kext](https://github.com/ChefKissInc/NootedRed).
 - [x] Esta EFI carece de serial por lo que deberá ser generado con [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS), ya que cada equipo necesita uno y duplicarlo puede traer graves consecuencias.
 
 ### Estructura EFI
