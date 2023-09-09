@@ -1,7 +1,7 @@
 # EFI-Ryzentosh-APU-AMD
 EFI Ryzentosh APU AMD
 <div id="header" align="center">
-  <img src="https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/Logo.png" width="150"/>
+  <img src="https://github.com/ReinierTutoriales/EFI-Ryzentosh-APU-AMD/blob/main/IMG/1.jpg" width="650"/>
 
 ## 🌐 Redes 👇
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/groups/reiniertutoriales/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/ReinierTutoriales) [![Telegram](https://img.shields.io/badge/Telegram-%26A5E4.svg?logo=Telegram&logoColor=white)](https://t.me/ReinierTutoriales) [![Cómprame un :tea:](https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/paypal.svg)](https://www.paypal.com/paypalme/ReinierTutoriales)
