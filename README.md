@@ -42,7 +42,7 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 - AppleMCEReporterDisabler.kext
 - IntelMausi.kext
 - Lilu.kext
-- NootedRed.kext
+- [NootedRed.kext](https://github.com/ChefKissInc/NootedRed)
 - NVMeFix.kext
 - RadeonSensor.kext
 - RealtekRTL8111.kext
