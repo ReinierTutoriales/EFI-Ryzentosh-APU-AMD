@@ -88,6 +88,6 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 |          `UMA Frame buffer Size`                         |    Auto             |  Generalmente se encuentra en Advanced>Onboard Devices Configuration               |
 |    `Integrated Graphics Controller`                      |     Auto            | Generalmente se encuentra en Advanced>AMD CBS>NBIO Common Options>GFX Configuration|
 |             `SUMA Above 4G`                              |   Auto              | Generalmente se encuentra en Advanced>AMD CBS>NBIO Common Options>GFX Configuration|
-|           `IOMMU`                                        |    Enabled          |  Generalmente se encuentra en Advanced>AMD CBS>NBIO Common Options                 |
+|           `IOMMU`                                        |    Disabled         |  Generalmente se encuentra en Advanced>AMD CBS>NBIO Common Options                 |
 |   `Primary Video Adaptor (IGD)`                          |  Int Graphics (IGD) | Generalmente se encuentra en Advanced>AMD PBS                                      |
 |   `CSM (Compatibility Support Module)`                   |   Disabled          | Generalmente se encuentra en apartado de Boot                                      | 
